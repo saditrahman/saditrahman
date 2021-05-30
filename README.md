@@ -25,14 +25,14 @@ Mastermind School (International Advanced Levels) (2019)
 
 **Popular Personal Projects**
 
-Snake Game with Python: https://github.com/saditrahman/Snake-Game-with-Pygame
-POS Software with Java (includes database functionality): https://github.com/saditrahman/Simple-Pos-Software
-3+ Dicord Bots: https://github.com/saditrahman/discord-bots
+1. Snake Game with Python: https://github.com/saditrahman/Snake-Game-with-Pygame
+2. POS Software with Java (includes database functionality): https://github.com/saditrahman/Simple-Pos-Software
+3. 3+ Dicord Bots: https://github.com/saditrahman/discord-bots
 
 **Skills**
 
-PHP, Java, MySQL, React.js, Node.js, Python, C++
-Wix.com, Wordpress, Shopify, WooCommerce
+1. PHP, Java, MySQL, React.js, Node.js, Python, C++
+2. Wix.com, Wordpress, Shopify, WooCommerce
 Adobe Creative Suite
 Video/Photo Editing
 
