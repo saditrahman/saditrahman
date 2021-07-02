@@ -28,8 +28,9 @@ Mastermind School (International Advanced Levels) (2019)
 1. Snake Game with Python: https://github.com/saditrahman/Snake-Game-with-Pygame
 2. POS Software with Java (includes database functionality): https://github.com/saditrahman/Simple-Pos-Software
 3. 3+ Dicord Bots: https://github.com/saditrahman/discord-bots
-4. Predicting house prices with Linear Regression
-5. Predicting the fruit name with KNN Classification
+4. Predicting house prices with Linear Regression: https://github.com/saditrahman/Predicting-the-price-of-house
+5. Predicting the fruit name with KNN Classification: https://github.com/saditrahman/K-Nearest-Neighbors-Classifier-to-predict-Fruits
+6. Expense Tracker Android Application (ongoing project): https://github.com/saditrahman/expense-tracker-application
 
 **Skills**
 
