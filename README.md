@@ -32,6 +32,9 @@ Mastermind School (International Advanced Levels) (2019)
 5. Predicting the fruit name with KNN Classification: https://github.com/saditrahman/K-Nearest-Neighbors-Classifier-to-predict-Fruits
 6. Expense Tracker Android Application (ongoing project): https://github.com/saditrahman/expense-tracker-application
 
+**React.js Projects**
+1. Calculator with React.js - https://github.com/saditrahman/Calculator-with-React.js
+2. Node.js backend API - https://github.com/saditrahman/Node.js-API
 **Skills**
 
 1. PHP, Java, MySQL, React.js, Node.js, Python, C++, React Native, Javalin, JUnit Testing, Bootstrap
