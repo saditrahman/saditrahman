@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![Sadit's github stats](https://github-readme-stats.vercel.app/api?username=saditrahman)
 -->
-[Image](https://avatars.githubusercontent.com/u/34134006?v=4)
+![Image](https://avatars.githubusercontent.com/u/34134006?v=4)
 
 **Summary**
 
