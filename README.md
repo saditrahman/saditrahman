@@ -18,10 +18,45 @@ Here are some ideas to get you started:
 
 ![Sadit's github stats](https://github-readme-stats.vercel.app/api?username=saditrahman)
 -->
-**Education**
+[Image](https://avatars.githubusercontent.com/u/34134006?v=4)
 
-RMIT University (Computer Science): 2020-2022 (Penultimate Year)
-Mastermind School (International Advanced Levels) (2019)
+**Summary**
+
+🔗 GitHub: https://www.github.com/saditrahman
+🔗 LinkedIn: https://www.linkedin.com/in/kowsar-rahman-sadit-856470148/
+🔗 https://kowsarrahman.wixsite.com/website
+📷 YouTube: https://www.youtube.com/krsaditofficial
+🌏 Melbourne, Australia
+🎓 RMIT University Australia (2nd Year)
+📒 Computer Science
+
+**⚡Languages that I know:**
+
+📄 Java/Java Swing
+📄 PHP
+📄 Python/Pandas/NumPy
+📄 HTML5/CSS/JavaScript
+📄 C++
+
+**⛑️Languages/Tools that I am learning:**
+
+📄 React.js and React Native
+📄 Android App Development
+📄 Kali Linux
+📄 Node.js/MongoDB
+📄 Cloud Computing
+
+**🔨Tools which I know:**
+📄 Git
+📄 WordPress
+📄 Wix.com
+📄 Microsoft Excel
+📄 Adobe Photoshop
+📄 Adobe Premiere Pro
+
+**🗺️ Languages**
+English
+Bangla
 
 **Popular Personal Projects**
 
@@ -35,16 +70,11 @@ Mastermind School (International Advanced Levels) (2019)
 **React.js Projects**
 1. Calculator with React.js - https://github.com/saditrahman/Calculator-with-React.js
 2. Node.js backend API - https://github.com/saditrahman/Node.js-API
-**Skills**
 
-1. PHP, Java, MySQL, React.js, Node.js, Python, C++, React Native, Javalin, JUnit Testing, Bootstrap
-2. Wix.com, Wordpress, Shopify, WooCommerce
-Adobe Creative Suite
-Video/Photo Editing
 
 **YouTube**
 
-www.youtube.com/krsaditofficial
+Subscribe: www.youtube.com/krsaditofficial
 
 
 [![Sadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=saditrahman)](https://github.com/saditrahman/github-readme-stats)
