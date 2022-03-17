@@ -78,6 +78,6 @@ Subscribe: www.youtube.com/krsaditofficial
 
 
 [![Sadit's GitHub stats](https://github-readme-stats.vercel.app/api?username=saditrahman)](https://github.com/saditrahman/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saditrahman)](https://github.com/saditrahman/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saditrahman&langs_count=10)](https://github.com/saditrahman/github-readme-stats)
 
 
